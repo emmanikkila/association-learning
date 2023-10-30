@@ -1,6 +1,6 @@
 # Association Rule Learning - Market Basket Optimisation
 
-[Link to the raport](association-learning.ipynb)
+[Link to the Report](association-learning.ipynb)
 
 ### Aim of the Analysis
 With association analysis model, examine which products are the most often bought together.
